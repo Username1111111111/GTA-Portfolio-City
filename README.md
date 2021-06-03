@@ -23,7 +23,7 @@
 - SCSS ✨
 - Fontawesome
 - Flexbox layout
-- Cool looking on hover grdient glowing animation 🔥
+- Cool looking on hover gradient glowing animation 🔥
 - Custom font import and usage
 - Added nice looking border to font
 - Browser bottom-left bar link hiding via JS
